@@ -1,4 +1,4 @@
-scala> for (i <- 20 until 0  by -2 )
+scala> for (i <- 22 until 0  by -2 )
      | println(i)
 20
 18
